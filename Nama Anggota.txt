@@ -4,5 +4,9 @@ Nazla Nabila
 Alfatha Huga Anaku
 Herro Arya Setiawan
 
+<<<<<<< HEAD
 Dari kejauhan tergambar cerita tentang kita
 
+=======
+Terpisah jarak dan waktu
+>>>>>>> e3d106e3367e760bceb346f02e306256d8a26bf8
